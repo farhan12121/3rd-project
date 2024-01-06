@@ -34,3 +34,18 @@ figure{
     font-size: 20px;
     
 }
+label{
+    display: block;
+    margin: 10px;
+}
+.Blog{
+    margin: 20px;
+    padding-left: 100px;
+    padding-right: 500px;
+    background-color: aquamarine;
+    background-size: initial;}
+#blogs{
+    text-align: center;
+    font-size: 30px;
+    background-color: bisque;
+}
